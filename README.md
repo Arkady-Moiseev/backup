@@ -34,7 +34,13 @@ ___
 ![img_4](https://github.com/Arkady1996/backup/blob/main/images/4.png)
 
 # Автоматизируем создание бэкапов с помощью systemd<br>
-Создаем сервис и таймер в каталоге /etc/systemd/system/ и проверяем работоспособность:
+Создаем <a href="https://github.com/Arkady1996/backup/blob/main/borg-backup.service">сервис</a> и <a href="https://github.com/Arkady1996/backup/blob/main/borg-backup.timer">таймер</a> в каталоге /etc/systemd/system/.<br>
+Включаем запускаем службу таймера ипроверяем работоспособность:<br>
+<b>systemctl enable borg-backup.timer</b> <br>
+<b>systemctl start borg-backup.timer</b>
+
+Проверяем работу сервиса и таймера
+
 
 ![img_5](https://github.com/Arkady1996/backup/blob/main/images/5.png)
 
