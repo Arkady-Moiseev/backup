@@ -46,3 +46,7 @@ ___
 
 ![img_6](https://github.com/Arkady1996/backup/blob/main/images/6.png)
 
+Восстанавливаем файл из бекапа:
+
+![img_7](https://github.com/Arkady1996/backup/blob/main/images/7.png)
+
