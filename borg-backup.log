@@ -1,0 +1,273 @@
+-- Logs begin at Sun 2023-04-30 09:56:42 UTC, end at Sun 2023-04-30 12:42:19 UTC. --
+Apr 30 11:26:07 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:26:09 backupclient borg[22898]: ------------------------------------------------------------------------------
+Apr 30 11:26:09 backupclient borg[22898]: Archive name: etc-2023-04-30_11:26:07
+Apr 30 11:26:09 backupclient borg[22898]: Archive fingerprint: f6a57a8d6f16f848617e45f790963cbdf3130e99c1d61e0b86cb952d645c2e05
+Apr 30 11:26:09 backupclient borg[22898]: Time (start): Sun, 2023-04-30 11:26:08
+Apr 30 11:26:09 backupclient borg[22898]: Time (end):   Sun, 2023-04-30 11:26:08
+Apr 30 11:26:09 backupclient borg[22898]: Duration: 0.29 seconds
+Apr 30 11:26:09 backupclient borg[22898]: Number of files: 1702
+Apr 30 11:26:09 backupclient borg[22898]: Utilization of max. archive size: 0%
+Apr 30 11:26:09 backupclient borg[22898]: ------------------------------------------------------------------------------
+Apr 30 11:26:09 backupclient borg[22898]: Original size      Compressed size    Deduplicated size
+Apr 30 11:26:09 backupclient borg[22898]: This archive:               28.43 MB             13.49 MB            126.62 kB
+Apr 30 11:26:09 backupclient borg[22898]: All archives:               56.85 MB             26.98 MB             11.97 MB
+Apr 30 11:26:09 backupclient borg[22898]: Unique chunks         Total chunks
+Apr 30 11:26:09 backupclient borg[22898]: Chunk index:                    1286                 3393
+Apr 30 11:26:09 backupclient borg[22898]: ------------------------------------------------------------------------------
+Apr 30 11:26:11 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:28:08 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:28:09 backupclient borg[22938]: ------------------------------------------------------------------------------
+Apr 30 11:28:09 backupclient borg[22938]: Archive name: etc-2023-04-30_11:28:08
+Apr 30 11:28:09 backupclient borg[22938]: Archive fingerprint: bc1d0b795adcb4465b16d9e881163396261c4e7315fe9fd7dcaac613edd2c80c
+Apr 30 11:28:09 backupclient borg[22938]: Time (start): Sun, 2023-04-30 11:28:09
+Apr 30 11:28:09 backupclient borg[22938]: Time (end):   Sun, 2023-04-30 11:28:09
+Apr 30 11:28:09 backupclient borg[22938]: Duration: 0.28 seconds
+Apr 30 11:28:09 backupclient borg[22938]: Number of files: 1702
+Apr 30 11:28:09 backupclient borg[22938]: Utilization of max. archive size: 0%
+Apr 30 11:28:09 backupclient borg[22938]: ------------------------------------------------------------------------------
+Apr 30 11:28:09 backupclient borg[22938]: Original size      Compressed size    Deduplicated size
+Apr 30 11:28:09 backupclient borg[22938]: This archive:               28.43 MB             13.49 MB             49.82 kB
+Apr 30 11:28:09 backupclient borg[22938]: All archives:               56.86 MB             26.98 MB             11.89 MB
+Apr 30 11:28:09 backupclient borg[22938]: Unique chunks         Total chunks
+Apr 30 11:28:09 backupclient borg[22938]: Chunk index:                    1284                 3396
+Apr 30 11:28:09 backupclient borg[22938]: ------------------------------------------------------------------------------
+Apr 30 11:28:11 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:30:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:30:17 backupclient borg[22981]: ------------------------------------------------------------------------------
+Apr 30 11:30:17 backupclient borg[22981]: Archive name: etc-2023-04-30_11:30:16
+Apr 30 11:30:17 backupclient borg[22981]: Archive fingerprint: 0d017fcedafd068512928a4422e9968b52c8d1f057eda12cd46cc45c46d90477
+Apr 30 11:30:17 backupclient borg[22981]: Time (start): Sun, 2023-04-30 11:30:16
+Apr 30 11:30:17 backupclient borg[22981]: Time (end):   Sun, 2023-04-30 11:30:17
+Apr 30 11:30:17 backupclient borg[22981]: Duration: 0.30 seconds
+Apr 30 11:30:17 backupclient borg[22981]: Number of files: 1702
+Apr 30 11:30:17 backupclient borg[22981]: Utilization of max. archive size: 0%
+Apr 30 11:30:17 backupclient borg[22981]: ------------------------------------------------------------------------------
+Apr 30 11:30:17 backupclient borg[22981]: Original size      Compressed size    Deduplicated size
+Apr 30 11:30:17 backupclient borg[22981]: This archive:               28.43 MB             13.49 MB             49.98 kB
+Apr 30 11:30:17 backupclient borg[22981]: All archives:               56.86 MB             26.98 MB             11.89 MB
+Apr 30 11:30:17 backupclient borg[22981]: Unique chunks         Total chunks
+Apr 30 11:30:17 backupclient borg[22981]: Chunk index:                    1285                 3396
+Apr 30 11:30:17 backupclient borg[22981]: ------------------------------------------------------------------------------
+Apr 30 11:30:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:36:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:36:17 backupclient borg[23128]: ------------------------------------------------------------------------------
+Apr 30 11:36:17 backupclient borg[23128]: Archive name: etc-2023-04-30_11:36:16
+Apr 30 11:36:17 backupclient borg[23128]: Archive fingerprint: ee345e3ec6676b472bb481a60bd1319765cd57d664c3058f5a494174e1d64a72
+Apr 30 11:36:17 backupclient borg[23128]: Time (start): Sun, 2023-04-30 11:36:16
+Apr 30 11:36:17 backupclient borg[23128]: Time (end):   Sun, 2023-04-30 11:36:17
+Apr 30 11:36:17 backupclient borg[23128]: Duration: 0.28 seconds
+Apr 30 11:36:17 backupclient borg[23128]: Number of files: 1702
+Apr 30 11:36:17 backupclient borg[23128]: Utilization of max. archive size: 0%
+Apr 30 11:36:17 backupclient borg[23128]: ------------------------------------------------------------------------------
+Apr 30 11:36:17 backupclient borg[23128]: Original size      Compressed size    Deduplicated size
+Apr 30 11:36:17 backupclient borg[23128]: This archive:               28.43 MB             13.49 MB             49.85 kB
+Apr 30 11:36:17 backupclient borg[23128]: All archives:               56.86 MB             26.98 MB             11.89 MB
+Apr 30 11:36:17 backupclient borg[23128]: Unique chunks         Total chunks
+Apr 30 11:36:17 backupclient borg[23128]: Chunk index:                    1284                 3396
+Apr 30 11:36:17 backupclient borg[23128]: ------------------------------------------------------------------------------
+Apr 30 11:36:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:36:57 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:36:58 backupclient borg[23158]: ------------------------------------------------------------------------------
+Apr 30 11:36:58 backupclient borg[23158]: Archive name: etc-2023-04-30_11:36:57
+Apr 30 11:36:58 backupclient borg[23158]: Archive fingerprint: 67a4386191542714a8c9e40a260d61988343901f973295b4b92401ecb5758dea
+Apr 30 11:36:58 backupclient borg[23158]: Time (start): Sun, 2023-04-30 11:36:58
+Apr 30 11:36:58 backupclient borg[23158]: Time (end):   Sun, 2023-04-30 11:36:58
+Apr 30 11:36:58 backupclient borg[23158]: Duration: 0.27 seconds
+Apr 30 11:36:58 backupclient borg[23158]: Number of files: 1702
+Apr 30 11:36:58 backupclient borg[23158]: Utilization of max. archive size: 0%
+Apr 30 11:36:58 backupclient borg[23158]: ------------------------------------------------------------------------------
+Apr 30 11:36:58 backupclient borg[23158]: Original size      Compressed size    Deduplicated size
+Apr 30 11:36:58 backupclient borg[23158]: This archive:               28.43 MB             13.49 MB                610 B
+Apr 30 11:36:58 backupclient borg[23158]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 11:36:58 backupclient borg[23158]: Unique chunks         Total chunks
+Apr 30 11:36:58 backupclient borg[23158]: Chunk index:                    1283                 3396
+Apr 30 11:36:58 backupclient borg[23158]: ------------------------------------------------------------------------------
+Apr 30 11:37:01 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:42:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:42:17 backupclient borg[23188]: ------------------------------------------------------------------------------
+Apr 30 11:42:17 backupclient borg[23188]: Archive name: etc-2023-04-30_11:42:16
+Apr 30 11:42:17 backupclient borg[23188]: Archive fingerprint: 99b90bc497ee6c5693a8eb4c2ef352ad177d657e241634cd6d2a8b4d00d7d172
+Apr 30 11:42:17 backupclient borg[23188]: Time (start): Sun, 2023-04-30 11:42:16
+Apr 30 11:42:17 backupclient borg[23188]: Time (end):   Sun, 2023-04-30 11:42:17
+Apr 30 11:42:17 backupclient borg[23188]: Duration: 0.27 seconds
+Apr 30 11:42:17 backupclient borg[23188]: Number of files: 1702
+Apr 30 11:42:17 backupclient borg[23188]: Utilization of max. archive size: 0%
+Apr 30 11:42:17 backupclient borg[23188]: ------------------------------------------------------------------------------
+Apr 30 11:42:17 backupclient borg[23188]: Original size      Compressed size    Deduplicated size
+Apr 30 11:42:17 backupclient borg[23188]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 11:42:17 backupclient borg[23188]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 11:42:17 backupclient borg[23188]: Unique chunks         Total chunks
+Apr 30 11:42:17 backupclient borg[23188]: Chunk index:                    1283                 3396
+Apr 30 11:42:17 backupclient borg[23188]: ------------------------------------------------------------------------------
+Apr 30 11:42:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:48:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:48:17 backupclient borg[23217]: ------------------------------------------------------------------------------
+Apr 30 11:48:17 backupclient borg[23217]: Archive name: etc-2023-04-30_11:48:16
+Apr 30 11:48:17 backupclient borg[23217]: Archive fingerprint: 2c2612baeea6c6467ecad82d1361b2aaed558bc6d904a69a27f296ea2af83d54
+Apr 30 11:48:17 backupclient borg[23217]: Time (start): Sun, 2023-04-30 11:48:16
+Apr 30 11:48:17 backupclient borg[23217]: Time (end):   Sun, 2023-04-30 11:48:17
+Apr 30 11:48:17 backupclient borg[23217]: Duration: 0.26 seconds
+Apr 30 11:48:17 backupclient borg[23217]: Number of files: 1702
+Apr 30 11:48:17 backupclient borg[23217]: Utilization of max. archive size: 0%
+Apr 30 11:48:17 backupclient borg[23217]: ------------------------------------------------------------------------------
+Apr 30 11:48:17 backupclient borg[23217]: Original size      Compressed size    Deduplicated size
+Apr 30 11:48:17 backupclient borg[23217]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 11:48:17 backupclient borg[23217]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 11:48:17 backupclient borg[23217]: Unique chunks         Total chunks
+Apr 30 11:48:17 backupclient borg[23217]: Chunk index:                    1283                 3396
+Apr 30 11:48:17 backupclient borg[23217]: ------------------------------------------------------------------------------
+Apr 30 11:48:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 11:54:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 11:54:17 backupclient borg[23245]: ------------------------------------------------------------------------------
+Apr 30 11:54:17 backupclient borg[23245]: Archive name: etc-2023-04-30_11:54:16
+Apr 30 11:54:17 backupclient borg[23245]: Archive fingerprint: 17939c5b3ab6ddd8aee17a4ea0e7fae8baceca8426e3dbc80334369e9f577c9d
+Apr 30 11:54:17 backupclient borg[23245]: Time (start): Sun, 2023-04-30 11:54:16
+Apr 30 11:54:17 backupclient borg[23245]: Time (end):   Sun, 2023-04-30 11:54:17
+Apr 30 11:54:17 backupclient borg[23245]: Duration: 0.26 seconds
+Apr 30 11:54:17 backupclient borg[23245]: Number of files: 1702
+Apr 30 11:54:17 backupclient borg[23245]: Utilization of max. archive size: 0%
+Apr 30 11:54:17 backupclient borg[23245]: ------------------------------------------------------------------------------
+Apr 30 11:54:17 backupclient borg[23245]: Original size      Compressed size    Deduplicated size
+Apr 30 11:54:17 backupclient borg[23245]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 11:54:17 backupclient borg[23245]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 11:54:17 backupclient borg[23245]: Unique chunks         Total chunks
+Apr 30 11:54:17 backupclient borg[23245]: Chunk index:                    1283                 3396
+Apr 30 11:54:17 backupclient borg[23245]: ------------------------------------------------------------------------------
+Apr 30 11:54:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:00:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:00:17 backupclient borg[23272]: ------------------------------------------------------------------------------
+Apr 30 12:00:17 backupclient borg[23272]: Archive name: etc-2023-04-30_12:00:16
+Apr 30 12:00:17 backupclient borg[23272]: Archive fingerprint: 68c5d1b12c1e78de4fd6f1365cb3856552fe34f00a4c6ed7289a0a97dabbb9a8
+Apr 30 12:00:17 backupclient borg[23272]: Time (start): Sun, 2023-04-30 12:00:16
+Apr 30 12:00:17 backupclient borg[23272]: Time (end):   Sun, 2023-04-30 12:00:17
+Apr 30 12:00:17 backupclient borg[23272]: Duration: 0.26 seconds
+Apr 30 12:00:17 backupclient borg[23272]: Number of files: 1702
+Apr 30 12:00:17 backupclient borg[23272]: Utilization of max. archive size: 0%
+Apr 30 12:00:17 backupclient borg[23272]: ------------------------------------------------------------------------------
+Apr 30 12:00:17 backupclient borg[23272]: Original size      Compressed size    Deduplicated size
+Apr 30 12:00:17 backupclient borg[23272]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:00:17 backupclient borg[23272]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:00:17 backupclient borg[23272]: Unique chunks         Total chunks
+Apr 30 12:00:17 backupclient borg[23272]: Chunk index:                    1283                 3396
+Apr 30 12:00:17 backupclient borg[23272]: ------------------------------------------------------------------------------
+Apr 30 12:00:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:06:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:06:17 backupclient borg[23312]: ------------------------------------------------------------------------------
+Apr 30 12:06:17 backupclient borg[23312]: Archive name: etc-2023-04-30_12:06:16
+Apr 30 12:06:17 backupclient borg[23312]: Archive fingerprint: 73fa4b77572f9ede9ec2d80ae3c585b5d35f640915ee67400839f92930e9b351
+Apr 30 12:06:17 backupclient borg[23312]: Time (start): Sun, 2023-04-30 12:06:16
+Apr 30 12:06:17 backupclient borg[23312]: Time (end):   Sun, 2023-04-30 12:06:17
+Apr 30 12:06:17 backupclient borg[23312]: Duration: 0.27 seconds
+Apr 30 12:06:17 backupclient borg[23312]: Number of files: 1702
+Apr 30 12:06:17 backupclient borg[23312]: Utilization of max. archive size: 0%
+Apr 30 12:06:17 backupclient borg[23312]: ------------------------------------------------------------------------------
+Apr 30 12:06:17 backupclient borg[23312]: Original size      Compressed size    Deduplicated size
+Apr 30 12:06:17 backupclient borg[23312]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:06:17 backupclient borg[23312]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:06:17 backupclient borg[23312]: Unique chunks         Total chunks
+Apr 30 12:06:17 backupclient borg[23312]: Chunk index:                    1283                 3396
+Apr 30 12:06:17 backupclient borg[23312]: ------------------------------------------------------------------------------
+Apr 30 12:06:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:12:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:12:17 backupclient borg[23341]: ------------------------------------------------------------------------------
+Apr 30 12:12:17 backupclient borg[23341]: Archive name: etc-2023-04-30_12:12:16
+Apr 30 12:12:17 backupclient borg[23341]: Archive fingerprint: 93d5ed43980e99d4f99b845e108c3f88dabbdeb7a70a478f1e482fc6d534611d
+Apr 30 12:12:17 backupclient borg[23341]: Time (start): Sun, 2023-04-30 12:12:16
+Apr 30 12:12:17 backupclient borg[23341]: Time (end):   Sun, 2023-04-30 12:12:17
+Apr 30 12:12:17 backupclient borg[23341]: Duration: 0.26 seconds
+Apr 30 12:12:17 backupclient borg[23341]: Number of files: 1702
+Apr 30 12:12:17 backupclient borg[23341]: Utilization of max. archive size: 0%
+Apr 30 12:12:17 backupclient borg[23341]: ------------------------------------------------------------------------------
+Apr 30 12:12:17 backupclient borg[23341]: Original size      Compressed size    Deduplicated size
+Apr 30 12:12:17 backupclient borg[23341]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:12:17 backupclient borg[23341]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:12:17 backupclient borg[23341]: Unique chunks         Total chunks
+Apr 30 12:12:17 backupclient borg[23341]: Chunk index:                    1283                 3396
+Apr 30 12:12:17 backupclient borg[23341]: ------------------------------------------------------------------------------
+Apr 30 12:12:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:18:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:18:17 backupclient borg[23369]: ------------------------------------------------------------------------------
+Apr 30 12:18:17 backupclient borg[23369]: Archive name: etc-2023-04-30_12:18:16
+Apr 30 12:18:17 backupclient borg[23369]: Archive fingerprint: bb969baa3e6dccc5b57368259fd87b72cd5114d9287e8f7a94177cbcd94b2b3b
+Apr 30 12:18:17 backupclient borg[23369]: Time (start): Sun, 2023-04-30 12:18:16
+Apr 30 12:18:17 backupclient borg[23369]: Time (end):   Sun, 2023-04-30 12:18:17
+Apr 30 12:18:17 backupclient borg[23369]: Duration: 0.27 seconds
+Apr 30 12:18:17 backupclient borg[23369]: Number of files: 1702
+Apr 30 12:18:17 backupclient borg[23369]: Utilization of max. archive size: 0%
+Apr 30 12:18:17 backupclient borg[23369]: ------------------------------------------------------------------------------
+Apr 30 12:18:17 backupclient borg[23369]: Original size      Compressed size    Deduplicated size
+Apr 30 12:18:17 backupclient borg[23369]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:18:17 backupclient borg[23369]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:18:17 backupclient borg[23369]: Unique chunks         Total chunks
+Apr 30 12:18:17 backupclient borg[23369]: Chunk index:                    1283                 3396
+Apr 30 12:18:17 backupclient borg[23369]: ------------------------------------------------------------------------------
+Apr 30 12:18:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:24:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:24:17 backupclient borg[23395]: ------------------------------------------------------------------------------
+Apr 30 12:24:17 backupclient borg[23395]: Archive name: etc-2023-04-30_12:24:16
+Apr 30 12:24:17 backupclient borg[23395]: Archive fingerprint: 13c4554c9e53a9f1e14bd12dec950afb45d301acb71eaa94e3c2811008b8c6aa
+Apr 30 12:24:17 backupclient borg[23395]: Time (start): Sun, 2023-04-30 12:24:16
+Apr 30 12:24:17 backupclient borg[23395]: Time (end):   Sun, 2023-04-30 12:24:17
+Apr 30 12:24:17 backupclient borg[23395]: Duration: 0.27 seconds
+Apr 30 12:24:17 backupclient borg[23395]: Number of files: 1702
+Apr 30 12:24:17 backupclient borg[23395]: Utilization of max. archive size: 0%
+Apr 30 12:24:17 backupclient borg[23395]: ------------------------------------------------------------------------------
+Apr 30 12:24:17 backupclient borg[23395]: Original size      Compressed size    Deduplicated size
+Apr 30 12:24:17 backupclient borg[23395]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:24:17 backupclient borg[23395]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:24:17 backupclient borg[23395]: Unique chunks         Total chunks
+Apr 30 12:24:17 backupclient borg[23395]: Chunk index:                    1283                 3396
+Apr 30 12:24:17 backupclient borg[23395]: ------------------------------------------------------------------------------
+Apr 30 12:24:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:30:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:30:17 backupclient borg[23418]: ------------------------------------------------------------------------------
+Apr 30 12:30:17 backupclient borg[23418]: Archive name: etc-2023-04-30_12:30:16
+Apr 30 12:30:17 backupclient borg[23418]: Archive fingerprint: 649b9d9b58adfe11e38063cee4278f27c27bf39ed1df1f5150b06d001727d531
+Apr 30 12:30:17 backupclient borg[23418]: Time (start): Sun, 2023-04-30 12:30:16
+Apr 30 12:30:17 backupclient borg[23418]: Time (end):   Sun, 2023-04-30 12:30:17
+Apr 30 12:30:17 backupclient borg[23418]: Duration: 0.27 seconds
+Apr 30 12:30:17 backupclient borg[23418]: Number of files: 1702
+Apr 30 12:30:17 backupclient borg[23418]: Utilization of max. archive size: 0%
+Apr 30 12:30:17 backupclient borg[23418]: ------------------------------------------------------------------------------
+Apr 30 12:30:17 backupclient borg[23418]: Original size      Compressed size    Deduplicated size
+Apr 30 12:30:17 backupclient borg[23418]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:30:17 backupclient borg[23418]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:30:17 backupclient borg[23418]: Unique chunks         Total chunks
+Apr 30 12:30:17 backupclient borg[23418]: Chunk index:                    1283                 3396
+Apr 30 12:30:17 backupclient borg[23418]: ------------------------------------------------------------------------------
+Apr 30 12:30:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:36:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:36:17 backupclient borg[23440]: ------------------------------------------------------------------------------
+Apr 30 12:36:17 backupclient borg[23440]: Archive name: etc-2023-04-30_12:36:16
+Apr 30 12:36:17 backupclient borg[23440]: Archive fingerprint: ae52204f87dbfe3e8e98a0845af01743d7a467bbe7e8974809eb83d21f4e8c27
+Apr 30 12:36:17 backupclient borg[23440]: Time (start): Sun, 2023-04-30 12:36:16
+Apr 30 12:36:17 backupclient borg[23440]: Time (end):   Sun, 2023-04-30 12:36:17
+Apr 30 12:36:17 backupclient borg[23440]: Duration: 0.26 seconds
+Apr 30 12:36:17 backupclient borg[23440]: Number of files: 1702
+Apr 30 12:36:17 backupclient borg[23440]: Utilization of max. archive size: 0%
+Apr 30 12:36:17 backupclient borg[23440]: ------------------------------------------------------------------------------
+Apr 30 12:36:17 backupclient borg[23440]: Original size      Compressed size    Deduplicated size
+Apr 30 12:36:17 backupclient borg[23440]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:36:17 backupclient borg[23440]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:36:17 backupclient borg[23440]: Unique chunks         Total chunks
+Apr 30 12:36:17 backupclient borg[23440]: Chunk index:                    1283                 3396
+Apr 30 12:36:17 backupclient borg[23440]: ------------------------------------------------------------------------------
+Apr 30 12:36:19 backupclient systemd[1]: Started Borg Backup.
+Apr 30 12:42:15 backupclient systemd[1]: Starting Borg Backup...
+Apr 30 12:42:17 backupclient borg[23458]: ------------------------------------------------------------------------------
+Apr 30 12:42:17 backupclient borg[23458]: Archive name: etc-2023-04-30_12:42:16
+Apr 30 12:42:17 backupclient borg[23458]: Archive fingerprint: 8000976422c8e8a3629d5d512b10fa78bc4e09b24e803f423595ca2cd2604666
+Apr 30 12:42:17 backupclient borg[23458]: Time (start): Sun, 2023-04-30 12:42:16
+Apr 30 12:42:17 backupclient borg[23458]: Time (end):   Sun, 2023-04-30 12:42:17
+Apr 30 12:42:17 backupclient borg[23458]: Duration: 0.27 seconds
+Apr 30 12:42:17 backupclient borg[23458]: Number of files: 1702
+Apr 30 12:42:17 backupclient borg[23458]: Utilization of max. archive size: 0%
+Apr 30 12:42:17 backupclient borg[23458]: ------------------------------------------------------------------------------
+Apr 30 12:42:17 backupclient borg[23458]: Original size      Compressed size    Deduplicated size
+Apr 30 12:42:17 backupclient borg[23458]: This archive:               28.43 MB             13.49 MB                611 B
+Apr 30 12:42:17 backupclient borg[23458]: All archives:               56.86 MB             26.98 MB             11.84 MB
+Apr 30 12:42:17 backupclient borg[23458]: Unique chunks         Total chunks
+Apr 30 12:42:17 backupclient borg[23458]: Chunk index:                    1283                 3396
+Apr 30 12:42:17 backupclient borg[23458]: ------------------------------------------------------------------------------
+Apr 30 12:42:19 backupclient systemd[1]: Started Borg Backup.
