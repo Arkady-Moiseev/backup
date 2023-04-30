@@ -50,3 +50,4 @@ ___
 
 ![img_7](https://github.com/Arkady1996/backup/blob/main/images/7.png)
 
+Журнал работы службы: -> <a href="https://github.com/Arkady1996/backup/blob/main/borg-backup.log">borg-backup.log</a>
